@@ -1,0 +1,37 @@
+{
+  "name": "gulp-jsxconvert",
+  "version": "0.0.1",
+  "description": "gulp plugin, wrapper for jsxhint to transform jsx to js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kent-wu/gulp-jsxconvert"
+  },
+  "keywords": [
+    "gulp-jsxconvert",
+    "jsxhint",
+    "gulp-jsxhint",
+    "convert",
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "author": {
+    "name": "Wu Junhong",
+    "email": "kent0113@163.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kent-wu/gulp-jsxconvert/issues"
+  },
+  "homepage": "https://github.com/kent-wu/gulp-jsxconvert",
+  "dependencies": {
+    "gulp-util": "^3.0.4",
+    "jsxhint": "^0.15.0",
+    "through2": "^0.6.5",
+    "vinyl": "^0.4.6"
+  }
+}
