@@ -1,3 +1,5 @@
+[![NPM](https://nodei.co/npm/gulp-jsxconvert.svg?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-jsxconvert/)
+
 > gulp plugin, wrapper for jsxhint to transform jsx to js before run jshint.
 
 ## Getting Started
