@@ -1,6 +1,6 @@
 {
   "name": "gulp-jsxconvert",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "gulp plugin, wrapper for jsxhint to transform jsx to js.",
   "main": "index.js",
   "scripts": {
