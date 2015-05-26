@@ -14,7 +14,7 @@
     "gulp-jsxconvert",
     "jsxhint",
     "gulp-jsxhint",
-    "convert",
+    "convert"
   ],
   "engines": {
     "node": ">=0.10.0"
