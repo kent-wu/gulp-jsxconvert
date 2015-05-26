@@ -11,7 +11,7 @@ module.exports = function () {
     }
 
     if (file.isStream()) {
-      this.emit('error', new PluginError('gulp-jsxhint', 'Streaming not supported'));
+      this.emit('error', new PluginError('gulp-jsxconvert', 'Streaming not supported'));
       return cb();
     }
 

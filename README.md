@@ -7,7 +7,7 @@ Please check out this [Getting Started](https://github.com/gulpjs/gulp/blob/mast
 Then you may install this plugin with this command:
 
 ```shell
-npm install gulp-jsxconvert --save
+npm install gulp-jsxconvert --save-dev
 ```
 
 ## Add "hint" task
