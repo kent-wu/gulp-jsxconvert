@@ -2,6 +2,13 @@
 
 > gulp plugin, wrapper for jsxhint to transform jsx to js before run jshint.
 
+
+## Deprecated
+
+Don't use gulp-jsxconvert anymore if you can switch to [ESLint](http://eslint.org/).
+For more detail: [JSXHint](https://github.com/STRML/JSXHint#deprecated)
+
+
 ## Getting Started
 Gulp requires `~3.8.11`
 
